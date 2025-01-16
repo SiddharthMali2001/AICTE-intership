@@ -63,7 +63,10 @@ Human-Pose-Estimation/
 
 ## Example Output
 ### Static Image:
-![Example](assets/output_example.jpg)
+![Example](Human-Pose-Estimation-OpenCV-main/OutPut-image.png)
+
+### Another Example:
+![Output Example](Human-Pose-Estimation-OpenCV-main/another output.PNG)
 
 ---
 
